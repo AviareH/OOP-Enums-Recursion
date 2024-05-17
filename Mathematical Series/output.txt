@@ -1,0 +1,3 @@
+FIBONACCI
+Index: 8
+Result: 21
